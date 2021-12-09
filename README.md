@@ -1,7 +1,8 @@
 # Marfrig - Desenvolvimento de Sistema Industrial (Teste)
 
-Desafio técnico fullstack – KPMG
-Tempo para realização da prova: 72 horas
+Requisitos
+Criar uma aplicação que permita realizar a manutenção de registros de compras de gado e a
+impressão da mesma em forma de relatório.
 
 Projeto Concluído.
 Projeto em Windows Forms, API para Rest, .Net Core(5.12), Banco de Dados SQL Server, 
