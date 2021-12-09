@@ -8,7 +8,7 @@ impressão da mesma em forma de relatório.
 
 Projeto Concluído.
 
-Projeto em Windows Forms, API para Rest, .Net Core(5.12), Banco de Dados SQL Server, 
+Projeto em Windows Forms, API para Rest, .Net Core(5.12) Modelo de Containers, Banco de Dados SQL Server, 
 
 *Rodar script para Criação do Banco e Tabelas*
 
