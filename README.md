@@ -17,3 +17,5 @@ Projeto em Windows Forms, API para Rest, .Net Core(5.12) Modelo de Containers, B
 *Rodar script para Criação do Banco e Tabelas*
 
 *Necessário Configurar a string de conexão no arquivo de Context no projeto Core
+
+*Projetos de inicialização API para disponibilizar dados, UI Interface do Usuário (Windows Forms)
