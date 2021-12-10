@@ -1,6 +1,8 @@
 # Marfrig - Desenvolvimento de Sistema Industrial (Teste)
 
-# Baixar os arquivos compactados Marfrig.part01.rar, .., Marfrig.part05.rar
+*Ultimas alterações no Reositório.
+
+*Correção no envio do Projeto(o projeto estava incompleto no Git), 
 
 Requisitos
 
