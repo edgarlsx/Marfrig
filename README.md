@@ -6,7 +6,7 @@ Criar uma aplicação que permita realizar a manutenção de registros de compra
 impressão da mesma em forma de relatório.
 
 
-Projeto Concluído.
+Projeto Concluído(parcial).
 
 Projeto em Windows Forms, API para Rest, .Net Core(5.12) Modelo de Containers, Banco de Dados SQL Server, 
 
