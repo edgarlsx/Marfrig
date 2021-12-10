@@ -1,5 +1,7 @@
 # Marfrig - Desenvolvimento de Sistema Industrial (Teste)
 
+# Baixar os arquivos compactados Marfrig.part01.rar, .., Marfrig.part05.rar
+
 Requisitos
 
 Criar uma aplicação que permita realizar a manutenção de registros de compras de gado e a
